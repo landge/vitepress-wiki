@@ -1,3 +1,3 @@
 module.exports = {
-	base: 'vitepress-test/'
+	base: '/vitepress-test/'
 }
