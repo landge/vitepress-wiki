@@ -1,3 +1,3 @@
 export default  {
-	base: '/vitepress-/'
+	base: '/vitepress-wiki/'
 }
