@@ -1,3 +1,3 @@
 # New Wiki
-Hi my new wiki pa
+Hi my new wiki page.
 
